@@ -30,8 +30,11 @@ Install :
 
 ## Kesimpulan:
 •	Tujuan wisata yang paling populer diantara wisatawan di Bangkok adalah wisata belanja dan bisnis di Commercial & Trade and Service Area yang terpusat di district Khlonmg Toei, Vadhana dan Ratchathewi.
+
 •	Mayoritas Wisatawan yang mengunjungi Bangkok adalah Luxury Traveler yang memiliki budget untuk penginapan sebesar ฿1.690 - ฿2.430/room/night dengan kecenderungan untuk memimilih penginapan dengan tipe Entire home/apartment.
+
 •	Saat ini Bangkok sudah berada dalam fase Oversupply penginapan, dimana rata-rata occupancy penginapan hanya berada di 33,05%, dengan occupancy terendah ada pada penginapan dengan kategori Luxury Class. 
+
 •	Ratio penginapan dengan Occupancy tertinggi yang masih layak secara ekonomi juga dimiliki oleh Luxury Class yaitu sebesar 27,3% dari semua jenis penginapan yang memiliki peak occupancy, sehingga masih memungkinkan untuk menaikan room rates.
 
 ## Rekomendasi :
